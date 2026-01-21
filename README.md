@@ -86,7 +86,9 @@ Implemented a two-level adaptive branch predictor in C, analyzing accuracy vs me
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SasaunkVanamali&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasaunkVanamali&layout=compact&theme=tokyonight" />
+  <!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasaunkVanamali&layout=compact&theme=tokyonight" />
+-->
 </p>
 
 ---
