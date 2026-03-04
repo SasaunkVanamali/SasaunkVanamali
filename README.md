@@ -62,9 +62,9 @@ Graduate Computer Science professional with 3+ years of experience building scal
   Building backend services, REST APIs, and cloud-deployed applications supporting real-time data ingestion, analytics, and user-facing platforms.
 
 - **Software Programming Intern** @ **Senecio Corporation**  
-  Supported ML data pipelines, feature preprocessing, and inference APIs using Python, SQL, FastAPI, MongoDB, and PostgreSQL.
+  Developed full-stack features with React, Node.js, TypeScript, and Azure supporting 10K+ users..
 
-- **Machine Learning Engineer** @ **Hexaware Technologies**  
+- **Software Engineer** @ **Hexaware Technologies**  
   Developed ML-backed backend systems, preprocessing pipelines, and production inference services using Python, Java, Spring Boot, Docker, Kubernetes, and AWS.
 
 ---
