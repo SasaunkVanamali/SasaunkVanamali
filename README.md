@@ -55,7 +55,7 @@ Graduate Computer Science professional with 3+ years of experience building scal
 </p>
 
 ---
-
+<!--
 ## 💼 Experience Snapshot
 
 - **Software Engineer** @ **Senecio Corporation**  
@@ -68,7 +68,7 @@ Graduate Computer Science professional with 3+ years of experience building scal
   Developed ML-backed backend systems, preprocessing pipelines, and production inference services using Python, Java, Spring Boot, Docker, Kubernetes, and AWS.
 
 ---
-
+-->
 ## 📁 Featured Projects
 
 ### 🧠 VetGPT – AI-Driven Veterinary Chatbot  
