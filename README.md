@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm **Sasaunk Vanamali**
-
+<!--
 Graduate Computer Science professional with 3+ years of experience building scalable backend systems, distributed services, and data-driven applications. I enjoy designing clean APIs, working with cloud-native architectures, and turning complex problems into reliable software.
 
 ---
@@ -15,7 +15,7 @@ Graduate Computer Science professional with 3+ years of experience building scal
 - ⚡ Fun fact: I enjoy breaking down complex systems, optimizing them, and rebuilding them better 🚀
 
 ---
-
+-->
 ## 🌐 Connect with me
 
 <p align="left">
